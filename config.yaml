@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   BOHE:
-    url: "https://my.donkx-link.work/api/v1/client/subscribe?token=b38528f1070e1ba7cff23f6301ad7bbf"
+    url: "URL1"
     type: http
     interval: 3600
     health-check:
@@ -13,7 +13,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   YiYuan:
-    url: "https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=31260e037ef096d962ece3d0eeb00633"
+    url: "URL2"
     type: http
     interval: 3600
     health-check:
