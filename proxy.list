@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-KEYWORD,1e100
 
 # 国外DNS
-DOMAIN,u2.dmhy.org
+DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
