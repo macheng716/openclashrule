@@ -11,17 +11,7 @@ proxy-providers:
       enable: true
       url: https://www.gstatic.com/generate_204
       interval: 300
-    proxy: 直连
-  YiYuan:
-    url: "URL2"
-    type: http
-    interval: 3600
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连
-    
+    proxy: 直连 
 
 # 节点信息
 proxies:
