@@ -2,6 +2,9 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,hhanclub.net
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,pterclub.net
