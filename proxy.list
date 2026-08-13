@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-KEYWORD,1e100
 
 # 国外DNS
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,api.tmdb.org
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
